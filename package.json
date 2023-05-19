@@ -2,7 +2,7 @@
   "name": "gpt4-chatgpt-starter",
   "version": "0.2.0",
   "private": true,
-  "author": "Mayooear<twitter:@mayowaoshin>",
+  "author": "Michael Rozenvasser",
   "type": "module",
   "scripts": {
     "dev": "next dev",

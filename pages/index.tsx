@@ -333,8 +333,8 @@ export default function Home() {
           </main>
         </div>
         <footer className="m-auto">
-          <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin).
+          <a href="">
+            Demo for PwC | Built by Michael R.
           </a>
         </footer>
       </Layout>

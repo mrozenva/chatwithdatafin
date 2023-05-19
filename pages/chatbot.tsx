@@ -161,7 +161,7 @@ export default function ChatBot() {
         </div>
         <footer className="m-auto">
           <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin).
+            Demo for PwC | built by Michael R.
           </a>
         </footer>
       </Layout>
