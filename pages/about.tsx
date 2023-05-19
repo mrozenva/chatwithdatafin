@@ -16,14 +16,10 @@ export default function About() {
               Credentials
             </h3>
             <p className="my-2">
-              This starterkit app is powered by OpenAI and Pinecone to generate
-              completions and embeddings, so you can {'chat'} with your
-              document(s).
+              
               <br></br>
               <br></br>
-              Both require your API keys to work. Your API keys will not be
-              saved on the server, they will be stored in browser cookies for 7
-              days.
+              Upload your OpenAI and Pinecone credentials to use the app.
             </p>
             <Credentials />
           </div>
@@ -85,10 +81,7 @@ export default function About() {
               upload.
               <br></br>
               <br></br>
-              In addition, the app inserts embeddings into only one pinecone
-              namespace by default called {`pdf-starter`}. If you want to add
-              new files after uploading, you will first need to delete the old
-              one or modify the hardcoded namespace.
+            
             </p>
           </div>
         </div>
