@@ -160,7 +160,7 @@ export default function ChatBot() {
           </main>
         </div>
         <footer className="m-auto">
-          <a href="https://twitter.com/mayowaoshin">
+          <a>
             Demo for PwC | built by Michael R.
           </a>
         </footer>
